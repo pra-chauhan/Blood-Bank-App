@@ -1,0 +1,6 @@
+{
+  "name": "BloodConnect NGO",
+  "description": "Production-ready emergency blood request and donor coordination platform connecting donors, camps, hospitals, and NGO administrators to save lives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
